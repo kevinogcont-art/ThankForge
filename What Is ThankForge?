@@ -1,0 +1,21 @@
+# ThankForge 🗺️
+
+Welcome to **ThankForge** (MulțumescForge)! This is a lightweight, web-based tool designed for quick and minimal fantasy map drafting. 
+
+The application is completely free, built using a custom HTML Canvas element, and hosted directly on Google Sites.
+
+## 🔗 Try It Live
+You can access and use the tool here:  
+👉 **[https://google.com](https://google.com)**
+
+## ✨ Features
+* **Custom HTML Canvas:** A pure interactive drawing board to map out your world.
+* **Smart Coloring:** 
+  * Choose **Brown** to paint countries and landmasses.
+  * Choose **Blue** to paint oceans and water bodies.
+* **Text Tool:** Add custom text directly onto your canvas to name your regions.
+* **Built-in Authentication:** Features a fully programmed, custom **Sign Up** system for user accounts.
+* **No Upgrades:** 100% free tool with no paywalls.
+
+---
+*Created as an independent coder project. Check it out and start drawing your maps!*
